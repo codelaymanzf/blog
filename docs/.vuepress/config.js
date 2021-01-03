@@ -135,6 +135,12 @@ module.exports = {
             "/blog/前端错误基础.md",
             "/blog/装饰器入门.md"
           ]
+        },
+        {
+          title: '装饰器入门',
+          children: [
+            "/blog/装饰器入门.md"
+          ]
         }
       ]
     }
