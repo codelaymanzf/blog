@@ -132,7 +132,8 @@ module.exports = {
         {
           title: '前端错误基础',
           children: [
-            "/blog/前端错误基础.md"
+            "/blog/前端错误基础.md",
+            "/blog/装饰器入门.md"
           ]
         }
       ]
