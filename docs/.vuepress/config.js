@@ -115,6 +115,12 @@ module.exports = {
           ]
         },
         {
+          title: "Vue",
+          children: [
+            "/frontend/vue/Vue2和Vue3对比.md",
+          ]
+        },
+        {
           title: "框架/库源码简版",
           children: ["/frontend/框架和库源码/"]
         }
